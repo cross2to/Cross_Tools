@@ -61,27 +61,26 @@
 
 #### 					批量化的使用（测试目标篇）
 
-​							网站cms的批量识别
+```
+	网站cms的批量识别
+	网站的robots文件
 
-​							网站的robots文件
+	网站的备份文件、后台的扫描
 
-​							网站的备份文件、后台的扫描
+	通用框架的nday验证
 
-​							通用框架的nday验证
+	通用cms的nday验证
+```
 
-​							通用cms的nday验证
+​		
 
-
-
-​							未完待续。。
+未完待续。。
 
 ​						
 
-​					netsh interface portproxy add v4tov4 listenaddress=192.168.9.4 listenport=3389 connectaddress= 114.141.190.70  connectport=2222
 
 
 
 
-
-#如果你有好的建议和意见，请至4787432neo@gmail.com
+#如果你有好的建议和意见，请投至4787432neo@gmail.com
 
