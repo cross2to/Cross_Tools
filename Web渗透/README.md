@@ -1,7 +1,6 @@
 # Cross_Tools
 
-
-#本项目持续更新  包括不限于 Web渗透、内网渗透、ATT&CK 、RedTeam等 
+#本项目持续更新  本篇为 **web渗透**  
 
 
 #### 常规web渗透思路
